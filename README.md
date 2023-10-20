@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomCarlosCanz
 - 👀 I’m interested in Mobile App Developement, and starting a business around that topic
 - 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on SceneKit developement
+- 💞️ I’m looking to collaborate on anything related to iOS Development
 - 📫 How to reach me through my email!
 
 <!---
